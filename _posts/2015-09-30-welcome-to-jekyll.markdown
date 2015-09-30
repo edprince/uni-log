@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "First day!"
+date:   2015-09-28 09:59:52
+categories: jekyll update
+---
+So today was a busy day, with three lab sessions sandwiching a lecture. We started off by looking at Python, and went
+into more detail than I was expecting. Although nothing I felt out of my depth with, had I not done any computing
+before I would certainly have felt nervous. I think the style of giving a worksheet out and letting students work
+through at their own pace suits me. I don't know whether it is because it feels comfortable, and I don't like
+asking for help, or because I can tackle it in the manner I choose. I thought the lecturer was very clear, very 
+friendly and did a great job helping. He did at one point say something along the lines of "[computers are stupid]
+you should always tell them as much as you can". I would challenge this statement. I think there are definitely 
+contexts when this is useful, for example machine learning. If your phone had access to the database of your life,
+it would do a cracking job at being personal and helpful. I do however think there are many cases when it is useful
+to only give the machine the information it needs to be able to complete the task it's given. Not for any scientific
+reason, mind, just because it seems pointless in giving it more that it doesn't need. Like getting a bag of sand
+and emptying it on the beach. The lecture was on computer architecture, and included a brief history of computers.
+Watching the Imitation Game could have provided a similar level, but it's all interesting stuff, so no complaints. 
+Then two more labs which were pretty standard (or as standard as they could be for someone on their first proper day 
+at university!).
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
