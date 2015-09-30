@@ -4,7 +4,7 @@ title:  "Free Chromebook..."
 date:   2015-09-30 16:56:52
 categories: jekyll update
 --- 
-![Chromebook](edprince.github.io/uni-log/images/chrome.jpg)
+![Chromebook](https://github.com/uni-log/blob/gh-pages/images/chrome.jpg)
 So the Computer Science students at Coventry all get given a free
 Chromebook laptop. Well, they say free, when you're paying nine grand
 it feels more like it's included in the price... But nevertheless, a 
@@ -44,7 +44,7 @@ were watching films or something, but for developing, it's great.
 
 Keyboard
 --------
-![Chrome keyboard](edprince.github.io/uni-log/images/keyboard.jpg)
+![Chromebook keyboard](https://github.com/uni-log/blob/gh-pages/images/keyboard.jpg)
 It's not perfect. Few are, but it's a million miles better than the majority 
 of keyboard I have used that have been restricted to such a small size.
 Clearly a lot of thought has been put into the keyboard layout, making the
